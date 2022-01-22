@@ -1,0 +1,34 @@
+.cell {
+  color: white;
+  display: inline-block;
+  background: grey;
+  margin: 1vh;
+  width: 2.5vh;
+  padding: 2vh;
+  font-size: 200%;
+  text-align: center;
+  cursor: pointer;
+}
+
+#table {
+  background-color: black;
+  width: fit-content;
+  padding: 2vh;
+  display: inline-block;
+}
+
+body {
+  text-align: center;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+h1 {
+  font-size: 300%;
+}
+
+.solve-button {
+  margin: 10px;
+  padding: 10px;
+
+  background-color: lightblue;
+}
